@@ -6,5 +6,5 @@ plotly.express
 datetime
 numpy
 pandas
-plotly.graph_objects
+
 
