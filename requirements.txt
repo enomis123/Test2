@@ -2,3 +2,9 @@ voila
 voila-material
 ipywidgets
 plotly
+plotly.express
+datetime
+numpy
+pandas
+plotly.graph_objects
+
